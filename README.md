@@ -2,7 +2,7 @@
 <h3 align="center">Junior Systems Administrator & Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-Explore-brightgreen?style=for-the-badge" alt="GitHub"></a>
+  <a href="https://github.com/Cdrow59" target="_blank"><img src="https://img.shields.io/badge/GitHub-Explore-brightgreen?style=for-the-badge" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/clayton-drown-529465292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
@@ -20,7 +20,7 @@ Junior Systems Administrator and Software Developer with a strong foundation in 
 
 ### 🛠️ Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,git,html,css,js,linux,windows,godot,powershell" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,html,css,js,flask,django,git,linux,windows,godot" alt="My Skills" />
 </p>
 
 ---
@@ -31,12 +31,6 @@ Junior Systems Administrator and Software Developer with a strong foundation in 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
